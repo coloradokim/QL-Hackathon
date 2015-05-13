@@ -9,7 +9,17 @@ body  {
   font-family: Tahoma, Geneva, sans-serif;
   }
 
+h1 {
+  font-size: 70px;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
 h2 {
+  font-size: 70px;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+a {
   font-size: 70px;
   font-family: Tahoma, Geneva, sans-serif;
 }
