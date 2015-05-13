@@ -1,0 +1,21 @@
+
+body  {
+  text-align: center;
+  background: url('../images/fire.jpg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgba(114,155,216,1);
+  color: white;
+  font-family: Tahoma, Geneva, sans-serif;
+  }
+
+h2 {
+  font-size: 70px;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+p {
+  font-size: 40px;
+font-family: Tahoma, Geneva, sans-serif;
+
+}
